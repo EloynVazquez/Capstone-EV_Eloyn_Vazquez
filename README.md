@@ -1,4 +1,4 @@
-# Automobile Analytics: Electric Vehicles (EVs)
+# Electric Vehicles (EVs) 
 
 ## Problem Area
 
